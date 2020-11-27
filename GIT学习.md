@@ -181,3 +181,7 @@ git clone git://git.kernel.org/pub/scm/git/git.git
 ```
 $ git help <verb>
 ```
+
+#### 切换分支
+
+git checkout 分支名
